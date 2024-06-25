@@ -1,0 +1,1 @@
+# Average-of-first-n-even-natural-numbers
